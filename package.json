@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "ten27-galaxy-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "ignore": "^5.2.0",
+    "node-fetch": "^3.2.10",
+    "recursive-readdir": "^2.2.3"
+  }
+}
